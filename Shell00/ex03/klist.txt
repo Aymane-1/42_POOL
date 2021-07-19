@@ -1,0 +1,5 @@
+Credentials cache: API:338373BB-358D-451E-80F2-3660A2F6FB76
+        Principal: aechafii@1337.MA
+
+  Issued                Expires               Principal
+Jun 21 16:16:01 2021  Jun 22 02:15:28 2021  krbtgt/1337.MA@1337.MA
